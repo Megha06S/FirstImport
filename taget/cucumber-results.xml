@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="62.938499">
+<testcase classname="Test Facebook smoke scenario" name="Test login with valid credentials" time="21.512721">
+<system-out><![CDATA[Given Open Firefox and start application....................................passed
+When I enter valid "7004518328" and valid "rajlax40k".......................passed
+Then user should be able to login successfully..............................passed
+Then application should be closed...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Facebook smoke scenario" name="Test login with valid credentials 2" time="27.913252">
+<system-out><![CDATA[Given Open Firefox and start application....................................passed
+When I enter valid "7406656481" and valid "Rudra@123".......................passed
+Then user should be able to login successfully..............................passed
+Then application should be closed...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Facebook smoke scenario" name="Test login with valid credentials 3" time="13.512526">
+<system-out><![CDATA[Given Open Firefox and start application....................................passed
+When I enter valid "mr.rahul726@gmail.com" and valid "Micro@12345"..........passed
+Then user should be able to login successfully..............................passed
+Then application should be closed...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

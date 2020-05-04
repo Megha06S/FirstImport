@@ -1,0 +1,124 @@
+[
+  {
+    "source": "^application should be closed$",
+    "steps": [
+      {
+        "name": "application should be closed",
+        "aggregatedDurations": {
+          "average": 1.596707727,
+          "median": 2.029013262
+        },
+        "durations": [
+          {
+            "duration": 2.029013262,
+            "location": "MyApplication.feature:27"
+          },
+          {
+            "duration": 2.754329225,
+            "location": "MyApplication.feature:27"
+          },
+          {
+            "duration": 0.006780695,
+            "location": "MyApplication.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open Firefox and start application$",
+    "steps": [
+      {
+        "name": "Open Firefox and start application",
+        "aggregatedDurations": {
+          "average": 8.157152127,
+          "median": 8.10748081
+        },
+        "durations": [
+          {
+            "duration": 8.10748081,
+            "location": "MyApplication.feature:24"
+          },
+          {
+            "duration": 6.971538488,
+            "location": "MyApplication.feature:24"
+          },
+          {
+            "duration": 9.392437085,
+            "location": "MyApplication.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user should be able to login successfully$",
+    "steps": [
+      {
+        "name": "user should be able to login successfully",
+        "aggregatedDurations": {
+          "average": 10.999763946,
+          "median": 11.163830327
+        },
+        "durations": [
+          {
+            "duration": 11.163830327,
+            "location": "MyApplication.feature:26"
+          },
+          {
+            "duration": 17.963099258,
+            "location": "MyApplication.feature:26"
+          },
+          {
+            "duration": 3.872362253,
+            "location": "MyApplication.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter valid \"(.*?)\" and valid \"(.*?)\"$",
+    "steps": [
+      {
+        "name": "I enter valid \"7004518328\" and valid \"rajlax40k\"",
+        "aggregatedDurations": {
+          "average": 0.212396229,
+          "median": 0.212396229
+        },
+        "durations": [
+          {
+            "duration": 0.212396229,
+            "location": "MyApplication.feature:25"
+          }
+        ]
+      },
+      {
+        "name": "I enter valid \"7406656481\" and valid \"Rudra@123\"",
+        "aggregatedDurations": {
+          "average": 0.224284716,
+          "median": 0.224284716
+        },
+        "durations": [
+          {
+            "duration": 0.224284716,
+            "location": "MyApplication.feature:25"
+          }
+        ]
+      },
+      {
+        "name": "I enter valid \"mr.rahul726@gmail.com\" and valid \"Micro@12345\"",
+        "aggregatedDurations": {
+          "average": 0.240945595,
+          "median": 0.240945595
+        },
+        "durations": [
+          {
+            "duration": 0.240945595,
+            "location": "MyApplication.feature:25"
+          }
+        ]
+      }
+    ]
+  }
+]
